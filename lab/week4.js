@@ -26,4 +26,5 @@ async function pageLoaded() {
   
 }
 
+
 window.addEventListener('DOMContentLoaded', pageLoaded)
